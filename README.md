@@ -99,6 +99,7 @@ If you use Proguard you will need to add these lines to `android/app/proguard-ru
 -keep public enum com.bumptech.glide.load.ImageHeaderParser$** {
   **[] $VALUES;
   public *;
+}
 ```
 
 ## Properties
@@ -231,6 +232,8 @@ This simplifies the development and the testing of the project.
 
 If you require new features or bug fixes for older versions you can fork this project.
 
+Thanks to @mobinni for helping with the conceptualization.
+
 ## Credits
 
 The idea for this modules came from
@@ -238,6 +241,8 @@ The idea for this modules came from
 [react-native-web-image](https://github.com/vovkasm/react-native-web-image)
 package.
 It also uses Glide and SDWebImage, but didn't have some features I needed (priority, headers).
+
+Thanks to [@mobinni](https://github.com/mobinni) for helping with the conceptualization
 
 ## Licenses
 

@@ -1,3 +1,38 @@
+## [6.0.3](https://github.com/DylanVann/react-native-fast-image/compare/v6.0.2...v6.0.3) (2019-06-03)
+
+
+### Bug Fixes
+
+* Add tintColor type definition. ([4adf42f](https://github.com/DylanVann/react-native-fast-image/commit/4adf42f))
+
+## [6.0.2](https://github.com/DylanVann/react-native-fast-image/compare/v6.0.1...v6.0.2) (2019-06-03)
+
+
+### Bug Fixes
+
+* Upgrade vendored SDWebImage to v5.0.5. ([5016172](https://github.com/DylanVann/react-native-fast-image/commit/5016172)), closes [#489](https://github.com/DylanVann/react-native-fast-image/issues/489)
+
+## [6.0.1](https://github.com/DylanVann/react-native-fast-image/compare/v6.0.0...v6.0.1) (2019-05-25)
+
+
+### Bug Fixes
+
+* Fix local resource cache issue on Android. ([#472](https://github.com/DylanVann/react-native-fast-image/issues/472)) ([5f65383](https://github.com/DylanVann/react-native-fast-image/commit/5f65383)), closes [#402](https://github.com/DylanVann/react-native-fast-image/issues/402)
+
+# [6.0.0](https://github.com/DylanVann/react-native-fast-image/compare/v5.4.2...v6.0.0) (2019-05-08)
+
+
+### Features
+
+* Upgrade to SDWebImage 5.0. ([#454](https://github.com/DylanVann/react-native-fast-image/issues/454)) ([8a216e2](https://github.com/DylanVann/react-native-fast-image/commit/8a216e2)), closes [#447](https://github.com/DylanVann/react-native-fast-image/issues/447)
+
+
+### BREAKING CHANGES
+
+* Upgrade SDWebImage, may affect some projects and CocoaPods users.
+
+Fix the bug of `cacheOnly` behavior
+
 ## [5.4.2](https://github.com/DylanVann/react-native-fast-image/compare/v5.4.1...v5.4.2) (2019-05-03)
 
 
