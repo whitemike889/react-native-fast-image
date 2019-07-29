@@ -1,6 +1,6 @@
 {
     "name": "@getmargin/react-native-fast-image",
-    "version": "6.0.3-alpha3",
+    "version": "6.0.3-alpha4",
     "description": "🚩 FastImage, performant React Native image component.",
     "keywords": [
         "cache",
